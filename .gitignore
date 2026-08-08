@@ -13,8 +13,7 @@ __pycache__/
 data/raw/
 data/processed/*.csv
 
-# Model files
-models/*.pkl
+
 
 # Environment/config
 .env
